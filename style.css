@@ -1,0 +1,80 @@
+.imagen {
+    max-width: 100%;
+}
+
+a {
+    cursor: pointer;
+}
+
+.alerta {
+    font-weight: 700;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e8e8e4;
+    overflow-x: hidden;
+}
+
+.modal-contenedor {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.img-carrito {
+    width: 200px;
+    padding: 20px;
+}
+
+.modal-content {
+    background-color: #E3D8D6;
+}
+
+.parrafo {
+    font-weight: 900;
+    font-style: italic;
+}
+
+#precioTotal {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.boton {
+    opacity: 0;
+}
+
+.table {
+    text-align: center;
+    background-color: #403d392d;
+    border: 5px;
+    margin: 2%;
+}
+
+.tr-compra {
+    background-color: #403d3976;
+    text-align: center;
+}
+
+.text-right {
+    text-align: end;
+}
+
+img {
+    border: 1%;
+}
+
+#h2-compra {
+    background-color: #403d392d;
+}
+
+#contenedor {
+    display: flex;
+    justify-content: space-around;
+    margin: 1%;
+}
